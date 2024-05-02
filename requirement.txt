@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+langchain
+tensorflow 
+pytorch
+json 
+nltk
+pickle
